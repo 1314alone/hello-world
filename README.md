@@ -1,2 +1,4 @@
 # hello-world
-the frist repository
+the frist repositor
+ Hi humans!
+ 
